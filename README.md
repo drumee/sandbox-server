@@ -15,3 +15,6 @@ sudo npm i
 ```console
 sudo npm run register-plugin
 ```
+```console
+sudo drumee restart
+```
