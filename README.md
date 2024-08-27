@@ -13,5 +13,5 @@ cd sandbox-server
 sudo npm i
 ```
 ```console
-sudo npm run plug
+sudo npm run register-plugin
 ```
