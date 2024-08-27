@@ -19,6 +19,7 @@ sudo npm run plug
 ## Install with Github 
 ```console
 git clone git@github.com:drumee/sandbox-server.git
+```
 ```console
   cd sandbox-server
 ```
