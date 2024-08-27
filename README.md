@@ -10,5 +10,8 @@ git clone https://github.com/drumee/sandbox-server.git
 cd sandbox-server
 ```
 ```console
+sudo npm i
+```
+```console
 sudo npm run plug
 ```
