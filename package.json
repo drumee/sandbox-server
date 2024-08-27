@@ -1,6 +1,6 @@
 {
   "name": "@drumee/sandbox-server",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Drumee Collaborative Sandbox Server",
   "main": "index.js",
   "scripts": {
