@@ -1,30 +1,14 @@
-# Drumee Sandbow Server
+# Drumee Plugin Example -- Sandbox Server
 
 This repository is a Drumee plugin. It is intended to run withind a Drumee Server Runtime Environment
 
-## Install with Npm 
+## How to use
 ```console
-  mkdir sandbox-server
+git clone https://github.com/drumee/sandbox-server.git
 ```
 ```console
-  cd sandbox-server
-```
-```console
-npm i @drumee/sandbox-server
+cd sandbox-server
 ```
 ```console
 sudo npm run plug
 ```
-
-## Install with Github 
-```console
-git clone git@github.com:drumee/sandbox-server.git
-```
-```console
-  cd sandbox-server
-```
-```console
-sudo npm run plug
-```
-```
-
